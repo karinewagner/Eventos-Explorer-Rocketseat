@@ -6,7 +6,10 @@
 ## Tecnologias
 - HTML
 - CSS
-- JavaScript
+- JavaScript e JSON
+- Node e NPM
+- Vite
+- iMask
 - Git e Github
 </br>
 
