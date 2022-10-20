@@ -13,7 +13,7 @@
 - Git e Github
 </br>
 
-[Caso queira ver o site... Clique aqui para acessar](https://karinewagner.github.io/Eventos-Explorer-Rocketseat/ExplorerLab/) ☺️👍
+[Caso queira ver o site... Clique aqui para acessar](https://explorer-lab-01-cyan.vercel.app/) ☺️👍
 ![project-screenshot](./ExplorerLab/.github/project.png) 
 
 # NLW eSports 
