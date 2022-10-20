@@ -13,7 +13,7 @@
 - Git e Github
 </br>
 
-[Caso queira ver o site... Clique aqui para acessar](https://karinewagner.github.io/NLWSports/) ☺️👍
+[Caso queira ver o site... Clique aqui para acessar](https://karinewagner.github.io/Eventos-Explorer-Rocketseat/ExplorerLab/) ☺️👍
 ![project-screenshot](./ExplorerLab/.github/project.png) 
 
 # NLW eSports 
@@ -27,5 +27,5 @@
 - Git e Github
 </br>
 
-[Clique aqui para acessar](https://karinewagner.github.io/NLWSports/) ☺️👍
+[Caso queira ver o site... Clique aqui para acessar](https://karinewagner.github.io/Eventos-Explorer-Rocketseat/NLWSports/) ☺️👍
 ![project-screenshot](./NLWSports/.github/preview.png) 
