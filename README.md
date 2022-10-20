@@ -1,20 +1,22 @@
 # Explorer-Lab | JS DOM 
 
-Em criação...
-</br>
+> ### Projeto construído no evento Explorer-Lab da Rocketseat, devenvolvimento de toda as funcionalidades de preenchimento de dados do cartão, com Javascript.
 </br>
 
 ## Tecnologias
 - HTML
 - CSS
+- JavaScript
 - Git e Github
 </br>
-</br>
-</br>
+
+[Caso queira ver o site... Clique aqui para acessar](https://karinewagner.github.io/NLWSports/) ☺️👍
+![project-screenshot](./ExplorerLab/.github/project.png) 
 
 # NLW eSports 
 
-Projeto construído no evento Next Level Week da Rocketseat.
+> ### Projeto construído no evento Next Level Week da Rocketseat.
+</br>
 
 ## Tecnologias
 - HTML
@@ -23,4 +25,4 @@ Projeto construído no evento Next Level Week da Rocketseat.
 </br>
 
 [Clique aqui para acessar](https://karinewagner.github.io/NLWSports/) ☺️👍
-![preview](./NLWSports/.github/preview.png) 
+![project-screenshot](./NLWSports/.github/preview.png) 
